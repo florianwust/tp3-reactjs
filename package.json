@@ -1,0 +1,21 @@
+{
+  "name": "learnreact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Florian Wust",
+  "license": "ISC",
+  "dependencies": {
+    "babel-preset-react": "^6.0.15",
+    "babelify": "^6.4.0",
+    "moment": "^2.10.6",
+    "react": "^0.14.1",
+    "react-dom": "^0.14.1"
+  },
+  "devDependencies": {
+    "eslint-plugin-react": "^3.6.3"
+  }
+}
